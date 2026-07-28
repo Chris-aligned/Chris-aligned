@@ -8,10 +8,10 @@ I am not a career software engineer and I have never worked on a software team. 
 
 ### What I have built
 
-**[Conversational AI agent specifications](../../ai-agent-specs)**
+**[Conversational AI agent specifications](https://github.com/Chris-aligned/ai-agent-specs)**
 Sixteen voice and chat agents built for real businesses across law, medical, HVAC, martial arts, barbering, restaurants, property management, Indigenous government, coaching, real estate and finance. Then I built the workflow that generates them automatically from a business's website, which turned bespoke delivery into a repeatable product. This repository documents the methodology and the anatomy of a production agent spec.
 
-**[Aligned, AI content platform](../../aligned-platform)**
+**[Aligned, AI content platform](https://app.alignedwebservices.ca)**
 A multi-tenant AI SaaS platform I designed and built alone in roughly two months. Digital twin creation and voice cloning, four modes of AI video generation, auto-captioning and scheduling, and auto-posting to four social networks after human approval. Sixty-two backend workflow endpoints. This repository documents the architecture and, more usefully, the trade-offs and the things that are not finished.
 
 ---
